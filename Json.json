@@ -1,10 +1,8 @@
 {
-  "credit": "MR. NoOB",
-  "show_dialog": false,
-  "title": "THIS APK PATCHED BAN ISSUE",
-  "subtitle": "✨ New Version Release ✨",
-  "whatsnew": "• CLICK UPDATE TO GET NEW APK .",
-  "btn_update": "Update Now",
-  "btn_exit": " ",
-  "link": "https://t.me/+phv2GNoK16RjNTll"
+  "showUpdate": true,
+  "title": "🔔 New Update Available!",
+  "message": "Please update the app to continue using it.",
+  "buttonText": "Update Now",
+  "updateUrl": "https://silentcheats.xyz/Skand/api/bypass4.php",
+  "credit": "MR. NoOB"
 }
