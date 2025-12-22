@@ -1,5 +1,5 @@
 {
-  "showUpdate": false,
+  "showUpdate": true,
   "title": "🔔 New Update Available!",
   "message": "Please update the app to continue using it.",
   "buttonText": "Update Now",
